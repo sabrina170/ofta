@@ -1,0 +1,44 @@
+
+---Downloaded files---
+The import files for: Medical were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost:8080/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/01/demo-content-import-file_2021-01-24__23-09-49.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/01/demo-widgets-import-file_2021-01-24__23-09-49.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Blog Widgets : 
+
+Categorías - No Title - Imported
+Entradas recientes - No Title - Imported
+Comentarios recientes - No Title - Imported
+
+Footer Widgets : 
+
+Shufflehound Information - No Title - Imported
+Shufflehound Recent Posts - No Title - Imported
+Shufflehound Contacts - No Title - Imported
+
+
+
+---pt-ocdi/after_import---
+
